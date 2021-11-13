@@ -76,6 +76,28 @@
       "info":
           "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
       "provinsi": "Banten"
+    },
+            {
+      "gambar": "assets/images/thumbnail.png",
+      "nama": "RS UMUM DAERAH TABANAN",
+      "alamat": "JL. PAHLAWAN NO. 14 TABANAN",
+      "kota": "TABANAN, BALI",
+      "telepon": "(0361) 811027",
+      "stok": "5",
+      "info":
+          "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+      "provinsi": "Bali"
+    },
+    {
+      "gambar": "assets/images/thumbnail.png",
+      "nama": "RS UMUM DAERAH KABUPATEN TANGERANG",
+      "alamat": "JL. A YANI NO. 9 TANGERANG, KOTA TANGERANG",
+      "kota": "TANGERANG, BANTEN",
+      "telepon": "(021) 5523507 / (021)  5512948 / (021) 5513709",
+      "stok": "5",
+      "info":
+          "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+      "provinsi": "Banten"
     }
             ]
 }
