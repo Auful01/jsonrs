@@ -109,6 +109,17 @@
       "info":
           "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
       "provinsi": "Banten"
+    },
+                  {
+      "gambar": "assets/images/thumbnail.png",
+      "nama": "RS UMUM DAERAH KECAMATAN GEDANGAN",
+      "alamat": "JL. A YANI NO. 9 SIDOARJO, KOTA SIDOARJO",
+      "kota": "SIDOARJO, JAWA TIMUR",
+      "telepon": "(021) 5523507 / (021)  5512948 / (021) 5513709",
+      "stok": "5",
+      "info":
+          "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+      "provinsi": "Banten"
     }
             ]
 }
