@@ -166,7 +166,7 @@
             "provinsi": "Banten"
         }
     ],
-    "konsultasi" = [
+    "konsultasi" : [
         {
     "id": "1",
     "gambar": "assets/images/konsultasi/covid1.jpeg",
