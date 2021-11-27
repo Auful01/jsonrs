@@ -1,4 +1,4 @@
-{
+[{ 
     "rumah-sakit": [
         {
             "id": "1",
@@ -166,6 +166,8 @@
             "provinsi": "Banten"
         }
     ],
+},
+ {
     "konsultasi" : [
         {
     "id": "1",
@@ -212,4 +214,6 @@
         "Jika dinyatakan positif COVID-19, penting untuk istirahat dan minum air putih yang cukup. Untuk meredakan gejala, kamu bisa minum obat pereda nyeri yang dijual bebas, seperti asetaminofen. Gunakan aplikasi Halodoc untuk berbicara dengan dokter secara berkala, atau meminta resep obat dan vitamin yang dibutuhkan."
   },
     ]
+ }
 }
+ ]
