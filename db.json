@@ -10,6 +10,18 @@
             "stok": "5",
             "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
             "provinsi": "Aceh"
+        },
+         {
+            "id": "1",
+            "gambar": "assets/images/thumbnail.png",
+            "nama": "RS UMUM DAERAH  DR. ZAINOEL ABIDIN",
+            "alamat": "JL. TGK DAUD BEUREUEH, NO. 108 B. ACEH",
+            "kota": "KOTA BANDA ACEH, ACEH",
+            "telepon": "(0651) 34565",
+            "stok": "5",
+            "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+            "provinsi": "Aceh"
         }
+        
     ]
 }
